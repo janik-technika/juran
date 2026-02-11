@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": "soft",
+      "type": "Měkké dřevo",
+      "sizes": [
+        {
+          "size": "50cm",
+          "price": "1100,-"
+        },
+        {
+          "size": "35cm",
+          "price": "1100,-"
+        },
+        {
+          "size": "25cm",
+          "price": "1200,-"
+        }
+      ]
+    },
+    {
+      "id": "hard",
+      "type": "Tvrdé dřevo",
+      "sizes": [
+        {
+          "size": "50cm",
+          "price": "2200,-"
+        },
+        {
+          "size": "35cm",
+          "price": "2200,-"
+        },
+        {
+          "size": "25cm",
+          "price": "2300,-"
+        }
+      ]
+    }
+  ],
+  "delivery": {
+    "vehicle": "MAN 7m³",
+    "price": "600,- Kč",
+    "areas": "Ústí, Janová, Leskovec"
+  },
+  "note": "Cena bez DPH za PRMS"
+}
