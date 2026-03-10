@@ -6,15 +6,15 @@
       "sizes": [
         {
           "size": "50cm",
-          "price": "1100,-"
+          "price": "1300,-"
         },
         {
           "size": "35cm",
-          "price": "1100,-"
+          "price": "1300,-"
         },
         {
           "size": "25cm",
-          "price": "1200,-"
+          "price": "1300,-"
         }
       ]
     },
@@ -24,11 +24,11 @@
       "sizes": [
         {
           "size": "50cm",
-          "price": "2200,-"
+          "price": "2300,-"
         },
         {
           "size": "35cm",
-          "price": "2200,-"
+          "price": "2300,-"
         },
         {
           "size": "25cm",
@@ -39,7 +39,7 @@
   ],
   "delivery": {
     "vehicle": "MAN 7m³",
-    "price": "600,- Kč",
+    "price": "700,- Kč",
     "areas": "Ústí, Janová, Leskovec"
   },
   "note": "Cena bez DPH za PRMS"
